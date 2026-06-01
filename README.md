@@ -19,15 +19,3 @@ A real-time chat application built using FastAPI and WebSockets, enabling instan
 - HTML
 - JavaScript
 
-## Installation
-
-```bash
-git clone <repo-url>
-cd chatapp
-
-python -m venv venv
-venv\Scripts\activate
-
-pip install -r requirements.txt
-
-fastapi dev main.py
